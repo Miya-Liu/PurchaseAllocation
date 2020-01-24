@@ -1,0 +1,358 @@
+<requests>
+    <request id="CD">
+        <query id="CD1">
+            <data>
+                <![CDATA[SELECT ?predicate ?object WHERE { { <http://dbpedia.org/resource/Barack_Obama> ?predicate ?object } UNION { ?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Barack_Obama> . ?subject ?predicate ?object } }]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 .]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                3
+            </budgetCoefficient>
+        </query>
+        <query id="CD2">
+            <data>
+                <![CDATA[SELECT ?party ?page WHERE { <http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/party> ?party . ?x <http://data.nytimes.com/elements/topicPage> ?page . ?x <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Barack_Obama> .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 .]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                3
+            </budgetCoefficient>
+        </query>
+        <query id="CD3">
+            <data>
+                <![CDATA[SELECT ?president ?party ?page WHERE { ?president <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> . ?president <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> . ?president <http://dbpedia.org/ontology/party> ?party . ?x <http://data.nytimes.com/elements/topicPage> ?page . ?x <http://www.w3.org/2002/07/owl#sameAs> ?president .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ?product4 <http://www.example.com/compatible> ?product5 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                5
+            </budgetCoefficient>
+        </query>
+        <query id="CD4">
+            <data>
+                <![CDATA[SELECT ?actor ?news WHERE { ?film <http://purl.org/dc/terms/title> "Tarzan" . ?film <http://data.linkedmdb.org/resource/movie/actor> ?actor . ?actor <http://www.w3.org/2002/07/owl#sameAs> ?x. ?y <http://www.w3.org/2002/07/owl#sameAs> ?x . ?y <http://data.nytimes.com/elements/topicPage> ?news}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ?product4 <http://www.example.com/compatible> ?product5 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                5
+            </budgetCoefficient>
+        </query>
+        <query id="CD5">
+            <data>
+                <![CDATA[SELECT ?film ?director ?genre WHERE { ?film <http://dbpedia.org/ontology/director> ?director . ?director <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Italy> . ?x <http://www.w3.org/2002/07/owl#sameAs> ?film . ?x <http://data.linkedmdb.org/resource/movie/genre> ?genre .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                4
+            </budgetCoefficient>
+        </query>
+        <query id="CD6">
+            <data>
+                <![CDATA[SELECT ?name ?location ?news WHERE { ?artist <http://xmlns.com/foaf/0.1/name> ?name . ?artist <http://xmlns.com/foaf/0.1/based_near> ?location . ?location <http://www.geonames.org/ontology#parentFeature> ?germany . ?germany <http://www.geonames.org/ontology#name> "Federal Republic of Germany"}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                4
+            </budgetCoefficient>
+        </query>
+        <query id="CD7">
+            <data>
+                <![CDATA[SELECT ?location ?news WHERE { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . ?parent <http://www.geonames.org/ontology#name> "California" . ?y <http://www.w3.org/2002/07/owl#sameAs> ?location . ?y <http://data.nytimes.com/elements/topicPage> ?news }]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                4
+            </budgetCoefficient>
+        </query>
+    </request>
+    <request id="LS">
+        <query id="LS1">
+            <data>
+                <![CDATA[SELECT $drug $melt WHERE { { $drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/meltingPoint> $melt. } UNION { $drug <http://dbpedia.org/ontology/Drug/meltingPoint> $melt . }}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                2
+            </budgetCoefficient>
+        </query>
+        <query id="LS2">
+            <data>
+                <![CDATA[SELECT ?predicate ?object WHERE { { <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00201> ?predicate ?object . } UNION { <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00201> <http://www.w3.org/2002/07/owl#sameAs> ?caff . ?caff ?predicate ?object . } }]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                3
+            </budgetCoefficient>
+        </query>
+        <query id="LS3">
+            <data>
+                <![CDATA[SELECT ?Drug ?IntDrug ?IntEffect WHERE { ?Drug <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Drug> . ?y <http://www.w3.org/2002/07/owl#sameAs> ?Drug . ?Int <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/interactionDrug1> ?y . ?Int <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/interactionDrug2> ?IntDrug . ?Int <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/text> ?IntEffect . }]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ?product4 <http://www.example.com/compatible> ?product5 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                5
+            </budgetCoefficient>
+        </query>
+        <query id="LS4">
+            <data>
+                <![CDATA[SELECT ?drugDesc ?cpd ?equation WHERE { ?drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugCategory> <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/cathartics> . ?drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/keggCompoundId> ?cpd . ?drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/description> ?drugDesc . ?enzyme <http://bio2rdf.org/ns/kegg#xSubstrate> ?cpd . ?enzyme <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bio2rdf.org/ns/kegg#Enzyme> . ?reaction <http://bio2rdf.org/ns/kegg#xEnzyme> ?enzyme . ?reaction <http://bio2rdf.org/ns/kegg#equation> ?equation . }]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ?product4 <http://www.example.com/compatible> ?product5 . ?product5 <http://www.example.com/compatible> ?product6 . ?product6 <http://www.example.com/compatible> ?product7 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                7
+            </budgetCoefficient>
+        </query>
+        <query id="LS5">
+            <data>
+                <![CDATA[SELECT $drug $keggUrl $chebiImage WHERE { $drug <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugs> . $drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/keggCompoundId> $keggDrug . $keggDrug <http://bio2rdf.org/ns/bio2rdf#url> $keggUrl . $drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/genericName> $drugBankName . $chebiDrug <http://purl.org/dc/elements/1.1/title> $drugBankName . $chebiDrug <http://bio2rdf.org/ns/bio2rdf#image> $chebiImage .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ?product4 <http://www.example.com/compatible> ?product5 . ?product5 <http://www.example.com/compatible> ?product6 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                6
+            </budgetCoefficient>
+        </query>
+        <query id="LS6">
+            <data>
+                <![CDATA[SELECT ?drug ?title WHERE { ?drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugCategory> <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/micronutrient> . ?drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/casRegistryNumber> ?id . ?keggDrug <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bio2rdf.org/ns/kegg#Drug> . ?keggDrug <http://bio2rdf.org/ns/bio2rdf#xRef> ?id . ?keggDrug <http://purl.org/dc/elements/1.1/title> ?title .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ?product4 <http://www.example.com/compatible> ?product5 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                5
+            </budgetCoefficient>
+        </query>
+        <query id="LS7">
+            <data>
+                <![CDATA[SELECT $drug $transform $mass WHERE { { $drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/affectedOrganism> "Humans and other mammals". $drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/casRegistryNumber> $cas . $keggDrug <http://bio2rdf.org/ns/bio2rdf#xRef> $cas . $keggDrug <http://bio2rdf.org/ns/bio2rdf#mass> $mass FILTER ( $mass > "5" ) } OPTIONAL { $drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/biotransformation> $transform . } }]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ?product4 <http://www.example.com/compatible> ?product5 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                5
+            </budgetCoefficient>
+        </query>
+    </request>
+    <request id="LD">
+        <query id="LD1">
+            <data>
+                <![CDATA[SELECT ?paper ?p ?n WHERE {?paper <http://data.semanticweb.org/ns/swc/ontology#isPartOf> <http://data.semanticweb.org/conference/iswc/2008/poster_demo_proceedings> .?paper <http://swrc.ontoware.org/ontology#author> ?p .?p <http://www.w3.org/2000/01/rdf-schema#label> ?n .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                3
+            </budgetCoefficient>
+        </query>
+        <query id="LD2">
+            <data>
+                <![CDATA[SELECT ?proceedings ?paper ?p WHERE {?proceedings <http://data.semanticweb.org/ns/swc/ontology#relatedToEvent> <http://data.semanticweb.org/conference/eswc/2010> .?paper <http://data.semanticweb.org/ns/swc/ontology#isPartOf> ?proceedings .?paper <http://swrc.ontoware.org/ontology#author> ?p .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                3
+            </budgetCoefficient>
+        </query>
+        <query id="LD3">
+            <data>
+                <![CDATA[SELECT ?paper ?p ?x ?n WHERE {?paper <http://data.semanticweb.org/ns/swc/ontology#isPartOf> <http://data.semanticweb.org/conference/iswc/2008/poster_demo_proceedings> .?paper <http://swrc.ontoware.org/ontology#author> ?p .?p <http://www.w3.org/2002/07/owl#sameAs> ?x .?p <http://www.w3.org/2000/01/rdf-schema#label> ?n .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                4
+            </budgetCoefficient>
+        </query>
+        <query id="LD4">
+            <data>
+                <![CDATA[SELECT ?role ?p ?paper ?proceedings WHERE {?role <http://data.semanticweb.org/ns/swc/ontology#isRoleAt> <http://data.semanticweb.org/conference/eswc/2010> .?role <http://data.semanticweb.org/ns/swc/ontology#heldBy> ?p .?paper <http://swrc.ontoware.org/ontology#author> ?p .?paper <http://data.semanticweb.org/ns/swc/ontology#isPartOf> ?proceedings .?proceedings <http://data.semanticweb.org/ns/swc/ontology#relatedToEvent> <http://data.semanticweb.org/conference/eswc/2010> .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ?product4 <http://www.example.com/compatible> ?product5 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                5
+            </budgetCoefficient>
+        </query>
+        <query id="LD5">
+            <data>
+                <![CDATA[SELECT ?a ?n WHERE {?a <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Michael_Jackson> .?a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .?a <http://xmlns.com/foaf/0.1/name> ?n .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                3
+            </budgetCoefficient>
+        </query>
+        <query id="LD6">
+            <data>
+                <![CDATA[SELECT ?director ?film ?x ?y ?n WHERE { ?director <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Italy> . ?film <http://dbpedia.org/ontology/director> ?director. ?x <http://www.w3.org/2002/07/owl#sameAs> ?film . ?x <http://xmlns.com/foaf/0.1/based_near> ?y . ?y <http://www.geonames.org/ontology#officialName> ?n .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ?product4 <http://www.example.com/compatible> ?product5 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                5
+            </budgetCoefficient>
+        </query>
+        <query id="LD7">
+            <data>
+                <![CDATA[SELECT ?x ?n WHERE {?x <http://www.geonames.org/ontology#parentFeature> <http://sws.geonames.org/2921044/> .?x <http://www.geonames.org/ontology#name> ?n .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                2
+            </budgetCoefficient>
+        </query>
+        <query id="LD8">
+            <data>
+                <![CDATA[SELECT ?drug ?id ?s ?o ?sub WHERE { ?drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugCategory> <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/micronutrient> . ?drug <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/casRegistryNumber> ?id . ?drug <http://www.w3.org/2002/07/owl#sameAs> ?s . ?s <http://xmlns.com/foaf/0.1/name> ?o . ?s <http://www.w3.org/2004/02/skos/core#subject> ?sub .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ?product4 <http://www.example.com/compatible> ?product5 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                5
+            </budgetCoefficient>
+        </query>
+        <query id="LD9">
+            <data>
+                <![CDATA[SELECT ?x ?p WHERE { ?x <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:FIFA_World_Cup-winning_countries> . ?p <http://dbpedia.org/ontology/managerClub> ?x . ?p <http://xmlns.com/foaf/0.1/name> "Luiz Felipe Scolari"@en .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                3
+            </budgetCoefficient>
+        </query>
+        <query id="LD10">
+            <data>
+                <![CDATA[SELECT ?n ?p2 ?u WHERE { ?n <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:Chancellors_of_Germany> . ?n <http://www.w3.org/2002/07/owl#sameAs> ?p2 . ?p2 <http://data.nytimes.com/elements/latest_use> ?u .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                3
+            </budgetCoefficient>
+        </query>-
+        <query id="LD11">
+            <data>
+                <![CDATA[SELECT ?x ?y ?d ?p ?l WHERE { ?x <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Eintracht_Frankfurt> . ?x <http://www.w3.org/2000/01/rdf-schema#label> ?y . ?x <http://dbpedia.org/ontology/birthDate> ?d . ?x <http://dbpedia.org/ontology/birthPlace> ?p . ?p <http://www.w3.org/2000/01/rdf-schema#label> ?l .}]]>
+            </data>
+            <service>
+                <![CDATA[ ?product1 <http://www.example.com/compatible> ?product2 . ?product2 <http://www.example.com/compatible> ?product3 . ?product3 <http://www.example.com/compatible> ?product4 . ?product4 <http://www.example.com/compatible> ?product5 . ]]>
+            </service>
+            <value-per-row>
+                10
+            </value-per-row>
+            <budgetCoefficient>
+                5
+            </budgetCoefficient>
+        </query>
+    </request>
+</requests>

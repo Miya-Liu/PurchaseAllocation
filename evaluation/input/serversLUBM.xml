@@ -1,0 +1,32 @@
+<servers>
+    <server id="lubm0">
+        http://localhost:8080/blazegraph/namespace/lubm0/sparql
+    </server>
+    <server id="lubm1">
+        http://localhost:8080/blazegraph/namespace/lubm1/sparql
+    </server>
+    <server id="lubm2">
+        http://localhost:8080/blazegraph/namespace/lubm2/sparql
+    </server>
+    <server id="lubm3">
+        http://localhost:8080/blazegraph/namespace/lubm3/sparql
+    </server>
+    <server id="lubm4">
+        http://localhost:8080/blazegraph/namespace/lubm4/sparql
+    </server>
+    <server id="lubm5">
+        http://localhost:8080/blazegraph/namespace/lubm5/sparql
+    </server>
+    <server id="lubm6">
+        http://localhost:8080/blazegraph/namespace/lubm6/sparql
+    </server>
+    <server id="lubm7">
+        http://localhost:8080/blazegraph/namespace/lubm7/sparql
+    </server>
+    <server id="lubm8">
+        http://localhost:8080/blazegraph/namespace/lubm8/sparql
+    </server>
+    <server id="lubm9">
+        http://localhost:8080/blazegraph/namespace/lubm9/sparql
+    </server>
+</servers>

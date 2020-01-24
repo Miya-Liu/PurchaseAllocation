@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='product7'/>
+		<variable name='cpd'/>
+		<variable name='equation'/>
+		<variable name='product2'/>
+		<variable name='product1'/>
+		<variable name='product6'/>
+		<variable name='product5'/>
+		<variable name='product4'/>
+		<variable name='product3'/>
+		<variable name='drugDesc'/>
+	</head>
+	<results>
+		<result>
+			<binding name='product7'>
+				<uri>http://www.example.com/product/kegg_247992</uri>
+			</binding>
+			<binding name='cpd'>
+				<uri>http://bio2rdf.org/cpd:C00794</uri>
+			</binding>
+			<binding name='equation'>
+				<literal>C00794 + C00016 &lt;=&gt; C01352 + C00247</literal>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_175008</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_175006</uri>
+			</binding>
+			<binding name='product6'>
+				<uri>http://www.example.com/product/kegg_247993</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_205810</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_205809</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_174975</uri>
+			</binding>
+			<binding name='drugDesc'>
+				<literal>A polyhydric alcohol with about half the sweetness of sucrose. Sorbitol occurs naturally and is also produced synthetically from glucose. It was formerly used as a diuretic and may still be used as a laxative and in irrigating solutions for some surgical procedures. It is also used in many manufacturing processes, as a pharmaceutical aid, and in several research applications. [PubChem]</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product7'>
+				<uri>http://www.example.com/product/kegg_252885</uri>
+			</binding>
+			<binding name='cpd'>
+				<uri>http://bio2rdf.org/cpd:C00794</uri>
+			</binding>
+			<binding name='equation'>
+				<literal>C00794 + C00006 &lt;=&gt; C00247 + C00005 + C00080</literal>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_175008</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_175006</uri>
+			</binding>
+			<binding name='product6'>
+				<uri>http://www.example.com/product/kegg_252886</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_428672</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_428669</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_174975</uri>
+			</binding>
+			<binding name='drugDesc'>
+				<literal>A polyhydric alcohol with about half the sweetness of sucrose. Sorbitol occurs naturally and is also produced synthetically from glucose. It was formerly used as a diuretic and may still be used as a laxative and in irrigating solutions for some surgical procedures. It is also used in many manufacturing processes, as a pharmaceutical aid, and in several research applications. [PubChem]</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product7'>
+				<uri>http://www.example.com/product/kegg_469556</uri>
+			</binding>
+			<binding name='cpd'>
+				<uri>http://bio2rdf.org/cpd:C00794</uri>
+			</binding>
+			<binding name='equation'>
+				<literal>C00794 + C00028 &lt;=&gt; C00247 + C00030</literal>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_175008</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_175006</uri>
+			</binding>
+			<binding name='product6'>
+				<uri>http://www.example.com/product/kegg_469547</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_205810</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_205809</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_174975</uri>
+			</binding>
+			<binding name='drugDesc'>
+				<literal>A polyhydric alcohol with about half the sweetness of sucrose. Sorbitol occurs naturally and is also produced synthetically from glucose. It was formerly used as a diuretic and may still be used as a laxative and in irrigating solutions for some surgical procedures. It is also used in many manufacturing processes, as a pharmaceutical aid, and in several research applications. [PubChem]</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>

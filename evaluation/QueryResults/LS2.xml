@@ -1,0 +1,3717 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='predicate'/>
+		<variable name='product2'/>
+		<variable name='product1'/>
+		<variable name='object'/>
+		<variable name='product3'/>
+	</head>
+	<results>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329894</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2002/07/owl#sameAs</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://data.linkedct.org/resource/intervention/31077</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329931</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Wigraine Tab (Belladonna + Caffeine + Ergotamine Tartrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329933</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://xmlns.com/foaf/0.1/page</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://dbpedia.org/page/Caffeine</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329940</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Wigraine Suppositories (Belladonna + Caffeine + Ergotamine Tartrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329941</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/experimentalLogs</uri>
+			</binding>
+			<binding name='object'>
+				<literal>-0.97 [ADME Research, USCD]</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329954</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://xmlns.com/foaf/0.1/page</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://en.wikipedia.org/wiki/Caffeine</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329956</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugs</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329963</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2002/07/owl#sameAs</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://data.linkedct.org/resource/intervention/26853</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329979</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2002/07/owl#sameAs</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://data.linkedct.org/resource/intervention/57134</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329989</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://xmlns.com/foaf/0.1/page</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www.drugbank.ca/drugs/DB00201</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329995</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/experimentalCaco2Permeability</uri>
+			</binding>
+			<binding name='object'>
+				<literal>-4.41 [ADME Research, USCD]</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329997</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Caffeine</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330024</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2002/07/owl#sameAs</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://data.linkedct.org/resource/intervention/57132</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330041</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2002/07/owl#sameAs</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://data.linkedct.org/resource/intervention/26517</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330048</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2002/07/owl#sameAs</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://data.linkedct.org/resource/intervention/2688</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330116</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2002/07/owl#sameAs</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://data.linkedct.org/resource/intervention/33539</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2002/07/owl#sameAs</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://dbpedia.org/resource/Caffeine</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330170</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/vocab/resource/class/Offer</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330180</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2002/07/owl#sameAs</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://data.linkedct.org/resource/intervention/33537</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329864</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Migergot</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329866</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugCategory</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/phosphodiesteraseInhibitors</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329871</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Miudol</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329873</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Fiorinal</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329878</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dosageForm</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/solution/DropsOral</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329880</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Coffein</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329882</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/creationDate</uri>
+			</binding>
+			<binding name='object'>
+				<literal>2005-06-13 13:24:05 UTC</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329887</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Durvitan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329888</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Pep-Back</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329892</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Caffedrine Caplets</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329899</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Maximum Strength Snapback Stimulant Powders</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329907</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/atcCode</uri>
+			</binding>
+			<binding name='object'>
+				<literal>N02BE01</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329909</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dosageForm</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/elixirOral</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329910</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Eldiatric C</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329916</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dpdDrugIdNumber</uri>
+			</binding>
+			<binding name='object'>
+				<literal>02241831</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329917</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/chebiId</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://bio2rdf.org/chebi:27732</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329927</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/absorption</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Readily absorbed after oral or parenteral administration. The peak plasma level for caffeine range from 6-10mg/L and the mean time to reach peak concentration ranged from 30 minutes to 2 hours.</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329930</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Cafergot</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329932</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/ahfsCode</uri>
+			</binding>
+			<binding name='object'>
+				<literal>28:20.00</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329937</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Guaranine</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329943</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/chemicalIupacName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>1,3,7-trimethylpurine-2,6-dione</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329947</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Ultra Pep-Back</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329951</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Esgic</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329953</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Darvon Compound-65</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329955</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/description</uri>
+			</binding>
+			<binding name='object'>
+				<literal>A methylxanthine naturally occurring in some beverages and also used as a pharmacological agent. Caffeine&amp;#39;s most notable pharmacological effect is as a central nervous system stimulant, increasing alertness and producing agitation. It also relaxes smooth muscle, stimulates cardiac muscle, stimulates diuresis, and appears to be useful in the treatment of some types of headache. Several cellular actions of caffeine have been observed, but it is not entirely clear how each contributes to its pharmacological profile. Among the most important are inhibition of cyclic nucleotide phosphodiesterases, antagonism of adenosine receptors, and modulation of intracellular calcium handling. [PubChem]</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329958</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Dexitac Stay Alert Stimulant</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329960</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dosageForm</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/tabletOral</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329966</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dosageForm</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/capsuleOral</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329971</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Vivarin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329973</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Refresh'n</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329974</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/ahfsCode</uri>
+			</binding>
+			<binding name='object'>
+				<literal>28:20.92</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329976</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dosageForm</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/solutionOral</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329977</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Esgic-Plus</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329985</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Hycomine</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329992</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Fioricet</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329993</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dosageForm</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/suppositoryRectal</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329998</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Cafipel</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329999</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Invagesic</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330000</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Wake-Up</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330001</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dosageForm</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/tabletExtendedReleaseOral</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330004</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Phensal</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330016</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Ercatab</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330018</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Stim</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330019</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugType</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/approved</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330021</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Invagesic Forte</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330026</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Wigraine</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330027</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Darvon Compound</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330029</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugCategory</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/anorexigenicAgents</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330031</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dosageForm</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/syrupOral</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330033</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Triad</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330040</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/atcCode</uri>
+			</binding>
+			<binding name='object'>
+				<literal>N06BC01</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330044</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/ahfsCode</uri>
+			</binding>
+			<binding name='object'>
+				<literal>28:08.92</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330046</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Natural Caffeinum</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330049</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Cafcit</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330050</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dosageForm</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/suspensionOral</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330051</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Synalgos-Dc</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330052</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Propoxyphene Compound 65</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330054</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Nodaca</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330056</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Keep Alert</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330063</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Dhc Plus</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330067</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>No-Doz</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330071</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/ahfsCode</uri>
+			</binding>
+			<binding name='object'>
+				<literal>92:02.00*</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330073</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Lanorinal</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330074</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Mateina</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330075</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Dasin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330076</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Caffine</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330077</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Enerjets</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330081</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Norgesic Forte</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330083</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Thein</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330084</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/casRegistryNumber</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://bio2rdf.org/cas:58-08-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330085</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/biotransformation</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Hepatic cytochrome P450 1A2 (CYP 1A2) is involved in caffeine biotransformation. About 80% of a dose of caffeine is metabolized to paraxanthine (1,7-dimethylxanthine), 10% to theobromine (3,7-dimethylxanthine), and 4% to theophylline (1,3-dimethylxanthine).</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330088</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Kofein</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330089</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dosageForm</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/pillOral</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330096</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Quick Pep</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330097</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Orphengesic Forte</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330107</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Organex</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330110</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/contraindicationInsert</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://129.128.185.122/drugbank2/drugs/DB00201/inserts/1256/full</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330111</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Femcet</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330114</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Nodoz Maximum Strength Caplets</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330117</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Theine</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330118</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/dosageForm</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/liquidOral</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330119</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Caffedrine</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330122</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugType</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/smallMolecule</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330123</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Norgesic</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330133</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Koffein</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330135</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/chemicalFormula</uri>
+			</binding>
+			<binding name='object'>
+				<literal>C8H10N4O2</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330137</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Cafamil</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330140</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Anoquan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330141</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Nix Nap</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330148</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Diurex</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330151</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Medigesic Plus</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330164</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Cafecon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330165</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/affectedOrganism</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Humans and other mammals</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330167</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Propoxyphene Compound-65</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330169</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Dexitac</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330172</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Orphengesic</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330173</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>SK 65 Compound</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330175</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Alert-Pep</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330176</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Coffeine</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330178</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugCategory</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/centralNervousSystemStimulants</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329863</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen 300 Mg with Caffeine &amp; Codeine Caplet (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329865</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Dristan Capsules (Acetylsalicylic Acid + Caffeine + Chlorpheniramine Maleate + Phenylpropanolamine Hydrochloride)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329867</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>AC and C Tab 1/8gr (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329870</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Emercidin D Tab (Acetaminophen + Caffeine + Diphenylpyraline Hydrochloride + Phenylpropanolamine Hydrochloride)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329874</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/experimentalWaterSolubility</uri>
+			</binding>
+			<binding name='object'>
+				<literal>22 mg/ml</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329875</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/keggCompoundId</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://bio2rdf.org/cpd:C07481</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329877</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Caffeine, Monohydrate</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329879</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/predictedLogpHydrophobicity</uri>
+			</binding>
+			<binding name='object'>
+				<literal>-0.23</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329881</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Theobromine ME</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329883</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Oradrine-2 Tab (Acetaminophen + Caffeine + Diphenylpyraline Hydrochloride + Phenylpropanolamine Hydrochloride)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329884</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/patientInformationInsert</uri>
+			</binding>
+			<binding name='object'>
+				<literal>http://129.128.185.122/drugbank2/drugs/DB00201/inserts/382/full</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329885</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/enzyme</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/enzymes/1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329891</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/toxicity</uri>
+			</binding>
+			<binding name='object'>
+				<literal>LD&lt;sub&gt;50&lt;/sub&gt;=127 mg/kg (orally in mice)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329893</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>217 (Acetylsalicylic Acid + Caffeine Citrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329895</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>282 Tab (Acetylsalicylic Acid + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329896</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen, Caffeine, and 8mg of Codeine Phosphate Tablets (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329898</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/target</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/targets/1178</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329900</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>282 Tablets (Acetylsalicylic Acid + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329901</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/predictedWaterSolubility</uri>
+			</binding>
+			<binding name='object'>
+				<literal>1.10e+01 mg/mL</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329902</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Oradrine Tablets (Acetaminophen + Caffeine + Codeine Phosphate + Diphenylpyraline Hydrochloride + Phenylpropanolamine Hydrochloride)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329904</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/fdaLabelFiles</uri>
+			</binding>
+			<binding name='object'>
+				<literal>1999-09-01	/drugs/201/fda_labels/456</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329911</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>282 Mep Tab (Acetylsalicylic Acid + Caffeine Citrate + Codeine Phosphate + Meprobamate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329912</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen, Caffeine and 8 Mg of Codeine Phosphate Tablets (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329915</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen, Caffeine &amp; 8mg Codeine Phosphate Tablets (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329918</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pharmacology</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Caffeine, a naturally occurring xanthine derivative like theobromine and the bronchodilator theophylline, is used as a CNS stimulant, mild diuretic, and respiratory stimulant (in neonates with apnea of prematurity). Often combined with analgesics or with ergot alkaloids, caffeine is used to treat migraine and other headache types. Over the counter, caffeine is available to treat drowsiness or mild water-weight gain.</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329919</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/inchiKey</uri>
+			</binding>
+			<binding name='object'>
+				<literal>RYYVLZVUVIJVGH-UHFFFAOYAW</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329920</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/molecularWeightAverage</uri>
+			</binding>
+			<binding name='object'>
+				<literal>194.1906</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329921</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/massSpecFile</uri>
+			</binding>
+			<binding name='object'>
+				<literal>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329928</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Oradrine 2 Tab (Acetaminophen + Caffeine + Diphenylpyraline Hydrochloride + Phenylpropanolamine Hydrochloride)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329934</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/mechanismOfAction</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Caffeine stimulates medullary, vagal, vasomotor, and respiratory centers, promoting bradycardia, vasoconstriction, and increased respiratory rate. This action was previously believed to be due primarily to increased intracellular cyclic 3&amp;prime;,5&amp;prime;-adenosine monophosphate (cyclic AMP) following inhibition of phosphodiesterase, the enzyme that degrades cyclic AMP. It is now thought that xanthines such as caffeine act as agonists at adenosine-receptors within the plasma membrane of virtually every cell. As adenosine acts as an autocoid, inhibiting the release of neurotransmitters from presynaptic sites but augmenting the actions of norepinephrine or angiotensin, antagonism of adenosine receptors promotes neurotransmitter release. This explains the stimulatory effects of caffeine. Blockade of the adenosine A1 receptor in the heart leads to the accelerated, pronounced "pounding" of the heart upon caffeine intake.</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329935</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Compound 65</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329936</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/secondaryAccessionNumber</uri>
+			</binding>
+			<binding name='object'>
+				<literal>aprd00673</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329944</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pubchemCompoundId</uri>
+			</binding>
+			<binding name='object'>
+				<literal>2519</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329945</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen Caffeine &amp; 8mg Cod. Phos. Tab (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329946</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>222 Tablet (Acetylsalicylic Acid + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329948</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/reference</uri>
+			</binding>
+			<binding name='object'>
+				<literal></literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329949</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/halfLife</uri>
+			</binding>
+			<binding name='object'>
+				<literal>3 to 7 hours in adults, 65 to 130 hours in neonates</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329950</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen 500mg Cmpd Tab with Codeine (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329959</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/state</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Solid</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329962</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Caffeine, Anhydrous</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329965</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen with Codeine Tab (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329967</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen with Caffeine and Codeine (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329969</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/keggDrugId</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://bio2rdf.org/kegg:D00528</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329970</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>692 Tab (Acetylsalicylic Acid + Caffeine + Dextropropoxyphene Hydrochloride)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329978</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/target</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/targets/16</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329981</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen Compound Tablets with Codeine 8mg (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329982</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>692 Tablet (Acetylsalicylic Acid + Caffeine + Dextropropoxyphene Hydrochloride)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329984</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>AC&amp;C Tablets (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329986</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/indication</uri>
+			</binding>
+			<binding name='object'>
+				<literal>For management of fatigue, orthostatic hypotension, and for the short term treatment of apnea of prematurity in infants.</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329990</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetylsalicylic Acid Caffeine &amp; 8mg Cod Phos (Acetylsalicylic Acid + Caffeine + Codeine (Codeine Phosphate))</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329991</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen Compound Caplets with Codeine (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329994</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Cafeina</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329996</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acet 3 (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330005</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Caffeine Pure</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330007</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pkaIsoelectricPoint</uri>
+			</binding>
+			<binding name='object'>
+				<literal>10.4</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330008</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/predictedLogs</uri>
+			</binding>
+			<binding name='object'>
+				<literal>-1.25</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330010</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>A &amp; C Tablets with Codeine 30mg (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330012</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>217 Strong Tab (Acetylsalicylic Acid + Caffeine Citrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330014</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pubchemSubstanceId</uri>
+			</binding>
+			<binding name='object'>
+				<literal>148854</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330022</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/molecularWeightMono</uri>
+			</binding>
+			<binding name='object'>
+				<literal>194.0804</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330023</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Triaminicin Colds &amp; Flu Caplets (Acetaminophen + Caffeine + Pheniramine Maleate + Phenylpropanolamine Hydrochloride + Pyrilamine Maleate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330025</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/hetId</uri>
+			</binding>
+			<binding name='object'>
+				<literal>CFF</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330039</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Methyltheobromine</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330045</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/smilesStringIsomeric</uri>
+			</binding>
+			<binding name='object'>
+				<literal>CN1C=NC2=C1C(=O)N(C)C(=O)N2C</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330053</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Methyltheobromide</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330060</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/interactionInsert</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://129.128.185.122/drugbank2/drugs/DB00201/inserts/2258/full</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330061</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/rxlistLink</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www.rxlist.com/cgi/generic3/caffeine.htm</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330062</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/structure</uri>
+			</binding>
+			<binding name='object'>
+				<literal>1</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330065</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen, Caffeine &amp; 8mg Codeine Phosphate (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330066</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Caffein</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330068</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acet 2 (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330069</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen Compound Tablets with Codeine (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330070</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/inchiIdentifier</uri>
+			</binding>
+			<binding name='object'>
+				<literal>InChI=1/C8H10N4O2/c1-10-4-9-6-5(10)7(13)12(3)8(14)11(6)2/h4H,1-3H3</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330072</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>292 Tab (Acetylsalicylic Acid + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330078</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Theophylline ME</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330079</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/smilesStringCanonical</uri>
+			</binding>
+			<binding name='object'>
+				<literal>CN1C=NC2=C1C(=O)N(C)C(=O)N2C</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330080</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen Caffeine &amp; 8mg Cod Phos Tab (Acetaminophen + Caffeine + Codeine (Codeine Phosphate))</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330082</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Emertabs Tab (Acetaminophen + Caffeine + Phenylpropanolamine Hydrochloride)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330094</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>A.C. &amp; C Tablets (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330095</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/meltingPoint</uri>
+			</binding>
+			<binding name='object'>
+				<literal>238 oC</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330098</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/limsDrugId</uri>
+			</binding>
+			<binding name='object'>
+				<literal>201</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330102</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/genericName</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Caffeine</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330112</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/target</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/targets/541</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330113</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/pharmgkbId</uri>
+			</binding>
+			<binding name='object'>
+				<literal>PA448710</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330121</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/experimentalLogpHydrophobicity</uri>
+			</binding>
+			<binding name='object'>
+				<literal>-0.5</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330124</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Caffeine, Synthetic</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330126</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>A.C. &amp; C 8mg Tab (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330128</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>A C and C Tab 0.125gr (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330130</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/primaryAccessionNo</uri>
+			</binding>
+			<binding name='object'>
+				<literal>DB00201</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330131</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen with Codeine - Caplet (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330142</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synthesisReference</uri>
+			</binding>
+			<binding name='object'>
+				<literal>U.S. Pat. 2,508,545 (1950)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330145</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/proteinBinding</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Low (25 to 36%).</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330149</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetaminophen Extra Strength with Caf &amp; Codeine (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330152</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/msdsFiles</uri>
+			</binding>
+			<binding name='object'>
+				<literal>/drugs/201/safety_sheets/954</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330156</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>CFF</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330159</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/updateDate</uri>
+			</binding>
+			<binding name='object'>
+				<literal>2008-08-26 14:01:33 UTC</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330160</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>A &amp; C Tablets with Codeine 15mg (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330168</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/synonym</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Monomethyl Derivative of Theophylline</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330177</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>282 Mep (Acetylsalicylic Acid + Caffeine Citrate + Codeine Phosphate + Meprobamate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330179</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>292 Tablets (Acetylsalicylic Acid + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329862</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Anacin Caplets (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329868</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Pain Aid (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329869</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Codamin No3 (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329872</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Atasol 8 Tab (Acetaminophen + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329876</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Instantine - Tab (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329886</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Codamin No2 (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329889</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Midol Menstrual Formula - Caplet (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329890</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Ratio-Tecnal C 1/2 (Acetylsalicylic Acid + Butalbital + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329897</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Tylenol with Codeine No. 2 - Tab (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329903</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Anacin Tab (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329905</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Arco Pain Tab (Acetylsalicylic Acid + Caffeine Citrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329906</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Midol Multi-Symptom Caplets Extra Strength (Acetaminophen + Caffeine + Pyrilamine Maleate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329908</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Ratio-Lenoltec No 2 (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329913</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Fiorinal Tab (Acetylsalicylic Acid + Butalbital + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329914</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Tylenol No1 Forte Tablets with Codeine (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329922</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Anacin Caplet (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329923</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Midol Extra Strength Menstrual (Acetaminophen + Caffeine + Pyrilamine Maleate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329924</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Midol - Caplet (Acetylsalicylic Acid + Caffeine + Cinnamedrine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329925</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Norgesic Forte Tab (Acetylsalicylic Acid + Caffeine + Orphenadrine Citrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329926</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Fiorinal Cap (Acetylsalicylic Acid + Butalbital + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329929</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Ultra Headache Relief (Acetaminophen + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329938</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Extra Strength Midol (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329939</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Astone Cap (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329942</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Midol Extra Strength Gelcaps (Acetaminophen + Caffeine + Pyrilamine Maleate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329952</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>C-2 Buffered with Codeine (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329957</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Ergodryl Cap (Caffeine Citrate + Diphenhydramine Hydrochloride + Ergotamine Tartrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329961</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Ratio-Tecnal (Acetylsalicylic Acid + Butalbital + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329964</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Exdol 8 Tab (Acetaminophen + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329968</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Trianal-C 1/2 Capsule (Acetylsalicylic Acid + Butalbital + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329972</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Codaminophen Tab 1/8gr (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329975</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Trianal Capsules (Acetylsalicylic Acid + Butalbital + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329980</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Novo-Gesic C15 (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329983</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Instantine Tab (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329987</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Norgesic Tab (Acetylsalicylic Acid + Caffeine + Orphenadrine Citrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_329988</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Calmine Tab (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330002</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Cafergot Tab (Caffeine + Ergotamine Tartrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330003</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Gravergol Capsules (Caffeine + Dimenhydrinate + Ergotamine Tartrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330006</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Fiorinal C1/2 Cap (Acetylsalicylic Acid + Butalbital + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330009</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Painex Tab 0.5gr (Acetylsalicylic Acid + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330011</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Extra Strength Acetaminophen, Caffeine &amp; 8mg Codeine Phosphate Caplets (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330013</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Exdol-15 Tablets (Acetaminophen + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330015</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Excedrin Tab (Acetaminophen + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330017</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Midol Regular (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330020</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Tylenol with Codeine No2 Tab (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330028</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Triatec-8 Fort Tab (Acetaminophen + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330030</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Ratio-Lenoltec No 3 (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330032</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Anacin with Codeine Tab (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330034</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Herbopyrine Tab 325mg (Acetylsalicylic Acid + Caffeine Citrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330035</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Cafergot PB Sup (Belladonna + Caffeine + Ergotamine (Ergotamine Tartrate) + Pentobarbital)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330036</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Novo-Gesic C30 (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330037</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Tylenol with Codeine No. 3 - Tab (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330038</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Atasol 30 Tab (Acetaminophen + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330042</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Novo AC and C 8mg Tab (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330043</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Neo Tigol Tab (Acetylsalicylic Acid + Aluminum Hydroxide + Caffeine + Magnesium Hydroxide + Passion Flower + Valerian)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330047</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Cafergot Sup (Caffeine + Ergotamine Tartrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330055</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>C2 Buffered Tab (Acetylsalicylic Acid + Aluminum Hydroxide + Caffeine + Magnesium Hydroxide)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330057</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>ASA, Caffeine &amp; 8mg Codeine Phosphate (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330058</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>C2 Tab with Codeine (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330059</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Megral Tabs (Caffeine + Cyclizine Hydrochloride + Ergotamine Tartrate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330064</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Ratio-Lenoltec No 1 (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330086</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>C T Acetylsalicylic Acid Codeine and Caf Tab (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330087</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Novo-Propoxyn Compound Cap (Acetylsalicylic Acid + Caffeine + Dextropropoxyphene Hydrochloride)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330090</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Cotabs (Acetaminophen + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330091</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Triatec-8 Tab (Acetaminophen + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330092</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Trianal Tablet (Acetylsalicylic Acid + Butalbital + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330093</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Tylenol Ultra Relief (Acetaminophen + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330099</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Tylenol No.1 Forte Caplets (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330100</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Tylenol No 1 Tab (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330101</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Ratio-Tecnal C1/4 (Acetylsalicylic Acid + Butalbital + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330103</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>C2 Buffered with Codeine Tab (Acetylsalicylic Acid + Aluminum Hydroxide + Caffeine + Codeine Phosphate + Magnesium Hydroxide)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330104</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Sinugex 38 (Acetaminophen + Caffeine + Diphenylpyraline Hydrochloride)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330105</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Midol Multi-Symptom Gelcap Extra Strength (Acetaminophen + Caffeine + Pyrilamine Maleate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330106</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Atasol 15 Tab (Acetaminophen + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330108</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetylsalicylic Acid, Caffeine and 8mg Codeine Phosphate (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330109</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Nervine Tab (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330115</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Acetylsalicylic Acid, Caffeine &amp; 8 Mg Codeine Phosphate Tablets (Acetylsalicylic Acid + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330120</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Painex Tab 0.25gr (Acetylsalicylic Acid + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330125</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Anacin Tablet (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330127</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Fiorinal C1/4 Cap (Acetylsalicylic Acid + Butalbital + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330129</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Exdol-30 Tablets (Acetaminophen + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330132</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Corytab (Acetaminophen + Caffeine + Diphenylpyraline Hydrochloride)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330134</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Nervine (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330136</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Midol Tab (Acetylsalicylic Acid + Caffeine + Cinnamedrine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330138</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Tylenol with Codeine No3 Tab (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330139</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Exdol-8 Tablets (Acetaminophen + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330144</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Antidol Tablets (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330146</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Cafergot PB Tab (Belladonna + Caffeine + Ergotamine (Ergotamine Tartrate) + Pentobarbital Sodium)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330147</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Anacin Extra Strength Tablet (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330150</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Instantine - Tablets (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330153</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Darvon N Compound Pulvule 405 (Acetylsalicylic Acid + Caffeine + Dextropropoxyphene Napsylate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330154</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Madelon (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330155</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Exdol 30tab (Acetaminophen + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330157</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Novo-Gesic-C8 (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330158</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Alka-Seltzer Morning Relief (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330161</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Exdol 15tab (Acetaminophen + Caffeine Citrate + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330162</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Excedrin Extra-Strength (Acetaminophen + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330163</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Dolomine 37 (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330166</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Anacin Extra Strength Caplet (Acetylsalicylic Acid + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330171</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Tylenol No.1 Caplets (Acetaminophen + Caffeine + Codeine Phosphate)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_330174</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/brandMixture</uri>
+			</binding>
+			<binding name='object'>
+				<literal>Excedrin (Acetaminophen + Caffeine)</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2004/02/skos/core#subject</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://dbpedia.org/resource/Category:Caffeine</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_8851999</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2004/02/skos/core#subject</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://dbpedia.org/resource/Category:Coffee</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_8852000</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2004/02/skos/core#subject</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://dbpedia.org/resource/Category:Xanthines</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_8852001</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2004/02/skos/core#subject</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://dbpedia.org/resource/Category:Anxiogenics</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_8852002</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2004/02/skos/core#subject</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://dbpedia.org/resource/Category:Bitter_compounds</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_8852003</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2004/02/skos/core#subject</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://dbpedia.org/resource/Category:IARC_Group_3_carcinogens</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_8852004</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2004/02/skos/core#subject</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://dbpedia.org/resource/Category:Phosphodiesterase_inhibitors</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_8852005</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2004/02/skos/core#subject</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://dbpedia.org/resource/Category:Plant_toxin_insecticides</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_8852006</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://dbpedia.org/ontology/ChemicalCompound</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_18564489</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://www.w3.org/2002/07/owl#Thing</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_18564490</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://xmlns.com/foaf/0.1/depiction</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://upload.wikimedia.org/wikipedia/commons/d/d8/Caffeine.svg</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_18564491</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://dbpedia.org/ontology/thumbnail</uri>
+			</binding>
+			<binding name='object'>
+				<uri>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Caffeine.svg/200px-Caffeine.svg.png</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_18564492</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+			</binding>
+			<binding name='object'>
+				<literal xml:lang='en'>Caffeine</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_29102113</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_330143</uri>
+			</binding>
+			<binding name='predicate'>
+				<uri>http://xmlns.com/foaf/0.1/name</uri>
+			</binding>
+			<binding name='object'>
+				<literal xml:lang='en'>Caffeine</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_37270464</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>

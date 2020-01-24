@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='product2'/>
+		<variable name='product1'/>
+		<variable name='page'/>
+		<variable name='product5'/>
+		<variable name='party'/>
+		<variable name='product4'/>
+		<variable name='product3'/>
+		<variable name='president'/>
+	</head>
+	<results>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/dbpedia_34856280</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/dbpedia_12537564</uri>
+			</binding>
+			<binding name='page'>
+				<uri>http://topics.nytimes.com/top/reference/timestopics/people/o/barack_obama/index.html</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/nytimes_304990</uri>
+			</binding>
+			<binding name='party'>
+				<uri>http://dbpedia.org/resource/Democratic_Party_%28United_States%29</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/nytimes_304998</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_34856266</uri>
+			</binding>
+			<binding name='president'>
+				<uri>http://dbpedia.org/resource/Barack_Obama</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/dbpedia_32121689</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/dbpedia_11194878</uri>
+			</binding>
+			<binding name='page'>
+				<uri>http://topics.nytimes.com/top/reference/timestopics/people/e/dwight_david_eisenhower/index.html</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/nytimes_275578</uri>
+			</binding>
+			<binding name='party'>
+				<uri>http://dbpedia.org/resource/Republican_Party_%28United_States%29</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/nytimes_275573</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/dbpedia_32121691</uri>
+			</binding>
+			<binding name='president'>
+				<uri>http://dbpedia.org/resource/Dwight_D._Eisenhower</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>

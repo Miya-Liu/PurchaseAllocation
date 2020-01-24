@@ -1,0 +1,658 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='product2'/>
+		<variable name='product1'/>
+		<variable name='title'/>
+		<variable name='product5'/>
+		<variable name='product4'/>
+		<variable name='product3'/>
+		<variable name='drug'/>
+	</head>
+	<results>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_216740</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_216655</uri>
+			</binding>
+			<binding name='title'>
+				<literal>Folic acid (JP15/USP/INN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_639012</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_638995</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_639014</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00158</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_36148</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_36150</uri>
+			</binding>
+			<binding name='title'>
+				<literal>Adenine (JAN/USP)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_694363</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_694360</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_694374</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00173</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_503424</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_503406</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Proline (JAN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_744007</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_744009</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_744015</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00172</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_454237</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_454236</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Methionine (JP15)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_892770</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_892760</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_892763</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00134</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_467345</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_467371</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Arginine (JP15)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_947771</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_947765</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_947767</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00125</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_299997</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_299947</uri>
+			</binding>
+			<binding name='title'>
+				<literal>Adenosine phosphate (USAN/INN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_947782</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_947777</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_947792</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00131</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_324817</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_324815</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Tryptophan (JP15)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_980679</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_980683</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_980675</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00150</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_209202</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_209250</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Phenylalanine (JP15)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_1033523</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_1033538</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_1033536</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00120</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_504879</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_504881</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Tyrosine (JAN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_1936</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_1931</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_1937</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00135</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_255600</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_255579</uri>
+			</binding>
+			<binding name='title'>
+				<literal>Aspartame (NF/INN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_2299</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_2293</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_2291</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00168</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_114163</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_114133</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Threonine (JP15)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_31795</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_31792</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_31802</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00156</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_388674</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_388753</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Glutamic acid (JAN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_208260</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_208250</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_208257</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00142</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_62400</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_62391</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Citrulline (DCF)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_235511</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_235507</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_235506</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00155</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_140497</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_140495</uri>
+			</binding>
+			<binding name='title'>
+				<literal>Cystine (USAN/INN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_243325</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_243313</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_243321</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00138</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_203391</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_203389</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Isoleucine (JP15)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_321631</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_321638</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_321641</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00167</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_261594</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_261561</uri>
+			</binding>
+			<binding name='title'>
+				<literal>Biotin (JAN/USP/INN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_376950</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_376945</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_376949</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00121</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_24865</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_24898</uri>
+			</binding>
+			<binding name='title'>
+				<literal>Glycine (JP15/USP)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_461361</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_461353</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_461357</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00145</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_152609</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_152572</uri>
+			</binding>
+			<binding name='title'>
+				<literal>Thioctic acid (JAN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_464762</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_464761</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_464760</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00166</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_230375</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_230388</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Leucine (JP15)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_485094</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_485097</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_485096</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00149</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_491824</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_491821</uri>
+			</binding>
+			<binding name='title'>
+				<literal>Lecithin (NF)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_488097</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_488102</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_488099</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00144</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_361988</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_362003</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Alanine (JAN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_514856</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_514855</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_514843</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00160</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_102101</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_102025</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Aspartic acid (JP15)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_568031</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_568029</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_568033</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00128</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_400497</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_400531</uri>
+			</binding>
+			<binding name='title'>
+				<literal>Menadione (USP)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_570632</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_570625</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_570619</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00170</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_13524</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_13501</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Histidine (JAN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_589920</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_589908</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_589921</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00117</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_440937</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_440989</uri>
+			</binding>
+			<binding name='title'>
+				<literal>Glutathione (reduced type) (JP15)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_617567</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_617568</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_617560</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00143</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_248735</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_248728</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Glutamine (JAN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_669405</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_669407</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_669410</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00130</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_401974</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_402043</uri>
+			</binding>
+			<binding name='title'>
+				<literal>L-Serine (JAN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_721130</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_721119</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_721120</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00133</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_363372</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_363390</uri>
+			</binding>
+			<binding name='title'>
+				<literal>Lysine (USAN/INN)</literal>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/kegg_935532</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/kegg_935533</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/kegg_935523</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00123</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>

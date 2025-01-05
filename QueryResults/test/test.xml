@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='name'/>
+		<variable name='product1'/>
+		<variable name='location'/>
+	</head>
+	<results>
+		<result>
+			<binding name='name'>
+				<literal>the ad.kowas</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_467378</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='name'>
+				<literal>The Rodeo Five</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_474642</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='name'>
+				<literal>herr gau</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_580539</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>

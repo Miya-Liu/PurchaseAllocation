@@ -1,0 +1,9 @@
+flat	0	120.0
+freemium	102	110.0
+free	100000	0
+flat	0	120.0
+freemium	102	110.0
+free	100000	0
+flat	0	120.0
+freemium	102	110.0
+free	100000	0

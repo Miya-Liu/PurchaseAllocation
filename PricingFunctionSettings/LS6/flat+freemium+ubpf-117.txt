@@ -1,0 +1,9 @@
+flat	0	11.0
+freemium	9	17.0
+ubpf	0	0
+flat	0	11.0
+freemium	9	17.0
+ubpf	0	0
+flat	0	11.0
+freemium	9	17.0
+ubpf	0	0

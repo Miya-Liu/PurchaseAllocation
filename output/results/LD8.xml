@@ -1,0 +1,721 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='sub'/>
+		<variable name='s'/>
+		<variable name='product2'/>
+		<variable name='product1'/>
+		<variable name='id'/>
+		<variable name='product5'/>
+		<variable name='product4'/>
+		<variable name='o'/>
+		<variable name='product3'/>
+		<variable name='drug'/>
+	</head>
+	<results>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Cellular_respiration</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Adenosine_triphosphate</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_452673</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_452628</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:56-65-5</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_4648879</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_38815068</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Adenosine triphosphate</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_452661</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00171</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Exercise_physiology</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Adenosine_triphosphate</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_452673</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_452628</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:56-65-5</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_4648880</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_38815068</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Adenosine triphosphate</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_452661</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00171</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Nucleotides</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Adenosine_triphosphate</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_452673</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_452628</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:56-65-5</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_4648881</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_38815068</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Adenosine triphosphate</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_452661</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00171</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Coenzymes</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Adenosine_triphosphate</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_452673</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_452628</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:56-65-5</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_4648882</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_38815068</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Adenosine triphosphate</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_452661</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00171</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Amino_acids</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Creatine</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_179365</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_179328</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:57-00-1</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_10069</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_29691012</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Creatine</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_179347</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00148</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Bodybuilding_supplements</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Creatine</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_179365</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_179328</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:57-00-1</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_10070</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_29691012</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Creatine</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_179347</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00148</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Dietary_supplements</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Creatine</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_179365</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_179328</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:57-00-1</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_10071</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_29691012</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Creatine</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_179347</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00148</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Guanidines</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Creatine</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_179365</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_179328</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:57-00-1</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_10072</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_29691012</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Creatine</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_179347</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00148</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Carboxylate_esters</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Aspartame</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_255600</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_255579</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:22839-47-0</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_2870207</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_35314179</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Aspartame</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_255606</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00168</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Sweeteners</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Aspartame</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_255600</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_255579</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:22839-47-0</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_2870208</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_35314179</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Aspartame</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_255606</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00168</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Vitamins</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Pyridoxal</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_127546</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_127531</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:65-22-5</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_2960464</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_35493268</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Pyridoxal</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_127549</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00147</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Pyridines</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Pyridoxal</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_127546</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_127531</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:65-22-5</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_2960465</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_35493268</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Pyridoxal</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_127549</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00147</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Aldehydes</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Pyridoxal</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_127546</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_127531</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:65-22-5</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_2960466</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_35493268</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Pyridoxal</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_127549</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00147</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Alcohols</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Pyridoxal</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_127546</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_127531</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:65-22-5</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_2960467</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_35493268</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Pyridoxal</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_127549</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00147</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Keto_acids</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Pyruvic_acid</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_115369</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_115354</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:127-17-3</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_7025266</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_33669207</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Pyruvic acid</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_115371</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00119</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Cellular_respiration</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Pyruvic_acid</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_115369</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_115354</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:127-17-3</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_7025267</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_33669207</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Pyruvic acid</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_115371</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00119</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Exercise_physiology</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Pyruvic_acid</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_115369</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_115354</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:127-17-3</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_7025268</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_33669207</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Pyruvic acid</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_115371</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00119</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Proteinogenic_amino_acids</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Serine</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_401974</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_402043</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:56-45-1</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_9952469</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_39448642</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Serine</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_402031</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00133</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Glucogenic_amino_acids</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Serine</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_401974</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_402043</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:56-45-1</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_9952470</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_39448642</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Serine</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_402031</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00133</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Vitamins</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Biotin</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_261594</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_261561</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:58-85-5</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_9960684</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_39464348</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Biotin</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_261609</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00121</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Organosulfur_compounds</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Biotin</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_261594</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_261561</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:58-85-5</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_9960685</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_39464348</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Biotin</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_261609</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00121</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='sub'>
+				<uri>http://dbpedia.org/resource/Category:Cofactors</uri>
+			</binding>
+			<binding name='s'>
+				<uri>http://dbpedia.org/resource/Biotin</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/drugbank_261594</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/drugbank_261561</uri>
+			</binding>
+			<binding name='id'>
+				<uri>http://bio2rdf.org/cas:58-85-5</uri>
+			</binding>
+			<binding name='product5'>
+				<uri>http://www.example.com/product/dbpedia_9960686</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/dbpedia_39464348</uri>
+			</binding>
+			<binding name='o'>
+				<literal xml:lang='en'>Biotin</literal>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/drugbank_261609</uri>
+			</binding>
+			<binding name='drug'>
+				<uri>http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00121</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>

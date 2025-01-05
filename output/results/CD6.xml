@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='product2'/>
+		<variable name='name'/>
+		<variable name='product1'/>
+		<variable name='location'/>
+		<variable name='product4'/>
+		<variable name='product3'/>
+	</head>
+	<results>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/jamendo_467382</uri>
+			</binding>
+			<binding name='name'>
+				<literal>the ad.kowas</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_467378</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/geonames_23678524</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/geonames_25680081</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/jamendo_474646</uri>
+			</binding>
+			<binding name='name'>
+				<literal>The Rodeo Five</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_474642</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/geonames_23678524</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/geonames_25680081</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/jamendo_580543</uri>
+			</binding>
+			<binding name='name'>
+				<literal>herr gau</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_580539</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/geonames_23678524</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/geonames_25680081</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/jamendo_640268</uri>
+			</binding>
+			<binding name='name'>
+				<literal>Michael Bartels</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_640265</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/geonames_23678524</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/geonames_25680081</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/jamendo_647633</uri>
+			</binding>
+			<binding name='name'>
+				<literal>Melophon</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_647629</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/geonames_23678524</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/geonames_25680081</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/jamendo_829281</uri>
+			</binding>
+			<binding name='name'>
+				<literal>Superdefekt</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_829277</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/geonames_23678524</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/geonames_25680081</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/jamendo_864714</uri>
+			</binding>
+			<binding name='name'>
+				<literal>The Gay Romeos</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_864710</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/geonames_23678524</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/geonames_25680081</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/jamendo_866226</uri>
+			</binding>
+			<binding name='name'>
+				<literal>Der tollwütige Kasper</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_866223</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/geonames_23678524</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/geonames_25680081</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/jamendo_897202</uri>
+			</binding>
+			<binding name='name'>
+				<literal>Remote Controlled</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_897198</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/geonames_23678524</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/geonames_25680081</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/jamendo_955451</uri>
+			</binding>
+			<binding name='name'>
+				<literal>Arne Pahlke</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_955460</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/geonames_23678524</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/geonames_25680081</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/jamendo_1026271</uri>
+			</binding>
+			<binding name='name'>
+				<literal>Chaos</literal>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/jamendo_1026268</uri>
+			</binding>
+			<binding name='location'>
+				<uri>http://sws.geonames.org/2911297/</uri>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/geonames_23678524</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/geonames_25680081</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>

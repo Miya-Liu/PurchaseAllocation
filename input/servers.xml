@@ -1,0 +1,32 @@
+<servers>
+    <server id="all">
+        http://localhost:8081/blazegraph/namespace/data/sparql
+    </server>
+    <!--<server id="dbpedia0">
+        http://localhost:8081/blazegraph/namespace/dbpedia/sparql
+    </server>
+    <server id="geonames0">
+        http://localhost:8081/blazegraph/namespace/geonames/sparql
+    </server>
+    <server id="linkedmdb0  ">
+        http://localhost:8081/blazegraph/namespace/linkedmdb/sparql
+    </server>
+    <server id="jamendo0">
+        http://localhost:8081/blazegraph/namespace/jamendo/sparql
+    </server>
+    <server id="nytimes0">
+        http://localhost:8081/blazegraph/namespace/nytimes/sparql
+    </server>
+    <server id="semanticweb0">
+        http://localhost:8081/blazegraph/namespace/semanticweb/sparql
+    </server>
+    <server id="chebi0">
+        http://localhost:8081/blazegraph/namespace/chebi/sparql
+    </server>
+    <server id="drugbank0">
+        http://localhost:8081/blazegraph/namespace/drugbank/sparql
+    </server>
+    <server id="kegg0">
+        http://localhost:8081/blazegraph/namespace/kegg/sparql
+    </server>-->
+</servers>

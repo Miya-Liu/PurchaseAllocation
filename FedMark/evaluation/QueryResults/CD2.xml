@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='product2'/>
+		<variable name='product1'/>
+		<variable name='page'/>
+		<variable name='party'/>
+		<variable name='product3'/>
+	</head>
+	<results>
+		<result>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/nytimes_304998</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/dbpedia_34856266</uri>
+			</binding>
+			<binding name='page'>
+				<uri>http://topics.nytimes.com/top/reference/timestopics/people/o/barack_obama/index.html</uri>
+			</binding>
+			<binding name='party'>
+				<uri>http://dbpedia.org/resource/Democratic_Party_%28United_States%29</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/nytimes_304990</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>

@@ -1,0 +1,4149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='p'/>
+		<variable name='paper'/>
+		<variable name='product2'/>
+		<variable name='x'/>
+		<variable name='product1'/>
+		<variable name='n'/>
+		<variable name='product4'/>
+		<variable name='product3'/>
+	</head>
+	<results>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/jens-lehmann</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/83</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_27940</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Jens_Lehmann</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_27947</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Jens Lehmann</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_25606</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_25607</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/toru-ishida</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/73</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_20185</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Toru_Ishida</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_20187</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Toru Ishida</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_49418</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_49421</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/toru-ishida</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/73</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_20185</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Toru_Ishida</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_20187</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Toru Ishida</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_49418</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_49432</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/simon-schenk</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/69</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_75328</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.uni-koblenz.de/~sschenk/foaf.rdf#me</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_75324</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Simon Schenk</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_53877</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_53868</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/simon-schenk</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/69</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_75328</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#simon-schenk</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_75324</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Simon Schenk</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_53877</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_53879</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/vit-novacek</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/64</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_22891</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#vit-novacek</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_22888</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Vit Novacek</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_61816</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_61814</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/taowei-wang</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/90</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_5652</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Taowei_Wang</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_5659</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Taowei Wang</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_65204</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_65207</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/soeren-auer</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/83</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_27946</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Soeren_Auer</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_27947</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Soeren Auer</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_71342</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_71309</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/soeren-auer</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/83</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_27946</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.informatik.uni-leipzig.de/~auer/foaf.rdf#me</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_27947</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Soeren Auer</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_71342</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_71320</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/soeren-auer</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/83</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_27946</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#soren-auer</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_27947</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Soeren Auer</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_71342</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_71329</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/soeren-auer</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/83</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_27946</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Soeren_Auer</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_27947</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Soeren Auer</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_71342</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_71335</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/soeren-auer</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/83</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_27946</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Soeren_Auer</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_27947</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Sören Auer</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_71351</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_71309</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/soeren-auer</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/83</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_27946</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.informatik.uni-leipzig.de/~auer/foaf.rdf#me</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_27947</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Sören Auer</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_71351</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_71320</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/soeren-auer</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/83</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_27946</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#soren-auer</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_27947</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Sören Auer</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_71351</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_71329</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/soeren-auer</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/83</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_27946</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Soeren_Auer</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_27947</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Sören Auer</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_71351</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_71335</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/vojtech-svatek</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/69</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_75318</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Vojtech_Svatek</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_75324</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Vojtech Svatek</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_91924</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_91946</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/vojtech-svatek</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/69</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_75318</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#vojtech-svatek</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_75324</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Vojtech Svatek</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_91924</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_91951</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/vojtech-svatek</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/69</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_75318</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Vojtech_Svatek</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_75324</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Vojtěch Svátek</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_91943</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_91946</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/vojtech-svatek</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/69</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_75318</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#vojtech-svatek</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_75324</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Vojtěch Svátek</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_91943</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_91951</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/thomas-franz</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/81</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_8294</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#thomas-franz</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_8295</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Thomas Franz</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_96018</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_96009</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/thomas-franz</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/67</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_54532</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#thomas-franz</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_54531</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Thomas Franz</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_96018</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_96009</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/luigi-iannone</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/41</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_81103</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#luigi-iannone</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_81094</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Luigi Iannone</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_586</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_593</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/bijan-parsia</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/65</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_33558</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#bijan-parsia</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_33554</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Bijan Parsia</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_20677</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_20672</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/bijan-parsia</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/65</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_33558</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Bijan_Parsia</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_33554</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Bijan Parsia</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_20677</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_20680</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/valentina-tamma</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/41</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_81087</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#valentina-tamma</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_81094</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Valentina Tamma</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_33159</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_33172</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/daniel-olmedilla</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/13</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_78873</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#daniel-olmedilla</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_78893</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Daniel Olmedilla</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_35702</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_35685</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/daniel-olmedilla</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/13</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_78873</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Daniel_Olmedilla</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_78893</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Daniel Olmedilla</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_35702</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_35711</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/fadi-badra</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/20</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_55523</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#fadi-badra</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_55536</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Fadi Badra</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_40323</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_40324</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/paul-doran</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/41</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_81110</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#paul-doran</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_81094</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Paul Doran</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_42431</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_42433</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/enrico-motta</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/34</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_880</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Enrico_Motta</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_868</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Enrico Motta</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_43442</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_43452</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/enrico-motta</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/19</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_36494</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Enrico_Motta</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_36513</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Enrico Motta</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_43442</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_43452</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/enrico-motta</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/34</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_880</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#enrico-motta</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_868</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Enrico Motta</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_43442</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_43467</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/enrico-motta</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/19</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_36494</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#enrico-motta</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_36513</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Enrico Motta</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_43442</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_43467</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/enrico-motta</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/34</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_880</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://identifiers.kmi.open.ac.uk/people/enrico-motta/</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_868</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Enrico Motta</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_43442</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_43471</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/enrico-motta</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/19</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_36494</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://identifiers.kmi.open.ac.uk/people/enrico-motta/</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_36513</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Enrico Motta</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_43442</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_43471</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/daniel-oberle</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/22</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_76374</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#daniel-oberle</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_76373</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Daniel Oberle</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_44204</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_44202</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/kay-uwe-schmidt</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/22</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_76380</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Kay-Uwe_Schmidt</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_76373</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Kay-Uwe Schmidt</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_46518</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_46508</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/sean-bechhofer</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/88</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_79959</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.cs.man.ac.uk/~seanb/#me</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_79954</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Sean Bechhofer</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_46725</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_46718</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/sean-bechhofer</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/88</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_79959</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Sean_Bechhofer</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_79954</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Sean Bechhofer</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_46725</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_46734</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/sean-bechhofer</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/88</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_79959</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#sean-bechhofer</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_79954</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Sean Bechhofer</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_46725</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_46739</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/floriana-esposito</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/51</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_88377</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Floriana_Esposito</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_88382</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Floriana Esposito</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_47785</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_47779</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/kaarel-kaljurand</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/27</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_23096</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#kaarel-kaljurand</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_23093</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Kaarel Kaljurand</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_5506</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_5507</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/34</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_882</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_dAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_868</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d'Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7315</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7293</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/19</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_36502</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_dAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_36513</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d'Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7315</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7293</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/20</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_55525</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_dAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_55536</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d'Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7315</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7293</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/34</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_882</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_DAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_868</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d'Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7315</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7333</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/19</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_36502</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_DAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_36513</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d'Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7315</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7333</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/20</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_55525</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_DAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_55536</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d'Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7315</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7333</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/34</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_882</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_dAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_868</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d’Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7329</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7293</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/19</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_36502</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_dAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_36513</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d’Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7329</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7293</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/20</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_55525</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_dAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_55536</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d’Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7329</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7293</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/34</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_882</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_DAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_868</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d’Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7329</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7333</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/19</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_36502</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_DAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_36513</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d’Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7329</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7333</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/20</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_55525</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_DAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_55536</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d’Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7329</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7333</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/siegfried-handschuh</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6098</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Siegfried_Handschuh</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Siegfried Handschuh</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_54322</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_54306</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/siegfried-handschuh</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6098</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Siegfried_Handschuh</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Siegfried Handschuh</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_54322</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_54327</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/siegfried-handschuh</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6098</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Siegfried_Handschuh</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Siggi Handschuh</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_54333</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_54306</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/siegfried-handschuh</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6098</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Siegfried_Handschuh</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Siggi Handschuh</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_54333</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_54327</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/terry-payne</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/41</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_81088</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#terry-payne</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_81094</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Terry Payne</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_56456</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_56464</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/terry-payne</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/41</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_81088</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#terry-payne</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_81094</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Terry R. Payne</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_56459</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_56464</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/aldo-gangemi</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/84</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_38703</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Aldo_Gangemi</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_38689</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Aldo Gangemi</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_56536</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_56535</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/aldo-gangemi</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/84</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_38703</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#aldo-gangemi</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_38689</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Aldo Gangemi</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_56536</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_56537</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/marta-sabou</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/34</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_873</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Marta_Sabou</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_868</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Marta Sabou</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_57121</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_57104</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/marta-sabou</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/19</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_36493</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Marta_Sabou</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_36513</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Marta Sabou</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_57121</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_57104</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/marta-sabou</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/34</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_873</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#marta-sabou</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_868</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Marta Sabou</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_57121</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_57131</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/marta-sabou</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/19</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_36493</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#marta-sabou</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_36513</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Marta Sabou</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_57121</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_57131</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/olaf-hartig</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/21</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_66222</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://olafhartig.de/foaf.rdf#olaf</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_66232</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Olaf Hartig</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_57481</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_57479</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/valentina-presutti</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/84</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_38700</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Valentina_Presutti</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_38689</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Valentina Presutti</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_59869</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_59845</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/valentina-presutti</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/84</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_38700</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#valentina-presutti</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_38689</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Valentina Presutti</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_59869</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_59849</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/matthias-wagner</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/32</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_83383</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Matthias_Wagner</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_83375</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Matthias Wagner</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_67073</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_67070</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/piero-bonatti</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/13</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_78887</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#piero-bonatti</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_78893</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Piero Bonatti</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_67787</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_67777</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/abraham-bernstein</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/87</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_69811</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Abraham_Bernstein</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_69822</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Abraham Bernstein</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_72735</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_72746</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/abraham-bernstein</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/87</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_69811</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Abraham_Bernstein</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_69822</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Abraham Bernstein</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_72735</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_72750</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/28</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_33872</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#guotong-xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_33879</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guo Tong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73212</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73205</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/28</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_33872</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Guotong_Xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_33879</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guo Tong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73212</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73210</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/28</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_33872</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#guotong-xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_33879</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guotong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73218</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73205</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/28</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_33872</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Guotong_Xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_33879</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guotong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73218</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73210</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/natalya-noy</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/25</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_3474</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Natasha_Noy</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_3476</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Natasha Noy</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_100437</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_100452</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/natalya-noy</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/60</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_85597</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Natasha_Noy</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_85608</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Natasha Noy</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_100437</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_100452</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/natalya-noy</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/25</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_3474</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Natasha_Noy</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_3476</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Natalya F. Noy</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_100443</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_100452</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/natalya-noy</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/60</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_85597</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Natasha_Noy</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_85608</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Natalya F. Noy</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_100443</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_100452</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/natalya-noy</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/25</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_3474</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Natasha_Noy</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_3476</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Natalya Noy</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_100447</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_100452</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/natalya-noy</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/60</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_85597</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Natasha_Noy</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_85608</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Natalya Noy</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_100447</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_100452</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/natalya-noy</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/25</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_3474</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Natasha_Noy</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_3476</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Natasha F. Noy</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_100459</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_100452</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/natalya-noy</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/60</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_85597</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Natasha_Noy</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_85608</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Natasha F. Noy</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_100459</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_100452</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/knud-moeller</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6109</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Knud_Moeller</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Knud Moeller</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_101447</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_101441</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/knud-moeller</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6109</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Knud_Moeller</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Knud Moeller</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_101447</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_101448</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/knud-moeller</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6109</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#knud-moeller</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Knud Moeller</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_101447</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_101473</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/knud-moeller</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6109</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Knud_Moeller</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Knud Hinnerk Möller</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_101461</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_101441</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/knud-moeller</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6109</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Knud_Moeller</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Knud Hinnerk Möller</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_101461</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_101448</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/knud-moeller</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6109</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#knud-moeller</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Knud Hinnerk Möller</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_101461</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_101473</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/knud-moeller</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6109</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Knud_Moeller</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Knud Möller</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_101469</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_101441</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/knud-moeller</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6109</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Knud_Moeller</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Knud Möller</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_101469</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_101448</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/knud-moeller</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/53</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_6109</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#knud-moeller</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_6110</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Knud Möller</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_101469</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_101473</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/vania-dimitrova</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/33</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_93686</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#vania-dimitrova</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_93687</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Vania Dimitrova</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_18366</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_18372</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/bijan-parsia</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/47</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_38999</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#bijan-parsia</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_38986</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Bijan Parsia</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_20677</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_20672</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/bijan-parsia</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/47</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_38999</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Bijan_Parsia</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_38986</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Bijan Parsia</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_20677</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_20680</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/lei-zhang</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/29</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_44330</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Lei_Zhang</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_44321</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Lei Zhang</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_21210</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_21213</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/lei-zhang</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/31</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_73837</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Lei_Zhang</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_73842</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Lei Zhang</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_21210</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_21213</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/kouji-kozaki</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/50</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_78586</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Kouji_Kozaki</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_78599</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Kouji Kozaki</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_22644</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_22642</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/holger-stenzhorn</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/36</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_20510</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Holger_Stenzhorn</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_20508</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Holger Stenzhorn</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_28947</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_28934</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/ulrike-sattler</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/47</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_38998</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Ulrike_Sattler</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_38986</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Ulrike Sattler</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_29017</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_29029</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/vilas-wuwongse</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/37</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_31009</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Vilas_Wuwongse</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_31002</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Vilas Wuwongse</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_30311</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_30310</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/michel-boehms</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/49</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_59519</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Michel_Boehms</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_59513</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Michel Böhms</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_30763</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_30762</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/riichiro-mizoguchi</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/50</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_78585</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#riichiro-mizoguchi</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_78599</uri>
+			</binding>
+			<binding name='n'>
+				<literal>R. Mizoguchi</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_30915</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_30933</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/riichiro-mizoguchi</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/50</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_78585</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Riichiro_Mizoguchi</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_78599</uri>
+			</binding>
+			<binding name='n'>
+				<literal>R. Mizoguchi</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_30915</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_30939</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/riichiro-mizoguchi</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/50</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_78585</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#riichiro-mizoguchi</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_78599</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Riichiro Mizoguchi</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_30927</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_30933</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/riichiro-mizoguchi</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/50</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_78585</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Riichiro_Mizoguchi</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_78599</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Riichiro Mizoguchi</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_30927</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_30939</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/jeff-z-pan</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/57</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_46426</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Jeff_Z_Pan</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_46434</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Jeff Z. Pan</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_31715</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_31713</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/jeff-z-pan</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/57</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_46426</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Jeff_Pan</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_46434</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Jeff Z. Pan</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_31715</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_31721</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/jeff-z-pan</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/57</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_46426</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Jeff_Z_Pan</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_46434</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Jeff Pan</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_31716</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_31713</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/jeff-z-pan</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/57</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_46426</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Jeff_Pan</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_46434</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Jeff Pan</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_31716</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_31721</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/daniel-olmedilla</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/39</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_52344</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#daniel-olmedilla</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_52355</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Daniel Olmedilla</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_35702</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_35685</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/daniel-olmedilla</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/39</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_52344</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Daniel_Olmedilla</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_52355</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Daniel Olmedilla</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_35702</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_35711</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/yue-pan</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/28</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_33869</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#yue-pan</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_33879</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Yue Pan</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_39279</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_39285</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/yue-pan</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/29</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_44328</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#yue-pan</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_44321</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Yue Pan</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_39279</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_39285</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/yue-pan</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/30</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_63254</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#yue-pan</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_63273</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Yue Pan</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_39279</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_39285</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/yue-pan</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/31</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_73840</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#yue-pan</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_73842</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Yue Pan</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_39279</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_39285</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/yue-pan</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/28</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_33869</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Yue_Pan</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_33879</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Yue Pan</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_39279</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_39295</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/yue-pan</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/29</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_44328</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Yue_Pan</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_44321</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Yue Pan</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_39279</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_39295</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/yue-pan</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/30</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_63254</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Yue_Pan</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_63273</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Yue Pan</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_39279</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_39295</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/yue-pan</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/31</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_73840</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Yue_Pan</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_73842</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Yue Pan</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_39279</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_39295</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/enrico-motta</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/38</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_41864</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Enrico_Motta</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_41878</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Enrico Motta</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_43442</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_43452</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/enrico-motta</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/38</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_41864</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#enrico-motta</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_41878</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Enrico Motta</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_43442</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_43467</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/enrico-motta</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/38</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_41864</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://identifiers.kmi.open.ac.uk/people/enrico-motta/</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_41878</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Enrico Motta</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_43442</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_43471</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/ronald-denaux</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/33</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_93679</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#ronald-denaux</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_93687</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Ronald Denaux</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_46841</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_46834</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/38</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_41866</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_dAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_41878</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d'Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7315</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7293</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/38</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_41866</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_DAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_41878</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d'Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7315</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7333</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/38</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_41866</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_dAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_41878</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d’Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7329</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7293</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/mathieu-daquin</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/38</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_41866</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Mathieu_DAquin</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_41878</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Mathieu d’Aquin</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_7329</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_7333</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/charlie-abela</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/46</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_28382</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#charlie-abela</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_28381</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Charlie Abela</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_9719</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_9723</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/yang-yang</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/28</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_33844</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#yang-yang</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_33879</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Yang Yang</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_50310</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_50290</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/yang-yang</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/28</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_33844</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Yang_Yang</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_33879</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Yang Yang</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_50310</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_50305</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/matthew-horridge</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/47</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_38996</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Matthew_Horridge</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_38986</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Matthew Horridge</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_51204</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_51207</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/hideaki-takeda</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/37</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_31010</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#hideaki-takeda</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_31002</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Hideaki Takeda</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_62042</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_62044</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/hideaki-takeda</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/37</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_31010</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Hideaki_Takeda</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_31002</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Hideaki Takeda</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_62042</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_62059</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/glen-hart</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/54</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_15546</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Glen_Hart</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_15559</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Glen Hart</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_69102</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_69096</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/glen-hart</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/33</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_93704</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Glen_Hart</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_93687</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Glen Hart</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_69102</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_69096</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/29</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_44339</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#guotong-xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_44321</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guo Tong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73212</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73205</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/30</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_63265</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#guotong-xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_63273</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guo Tong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73212</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73205</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/31</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_73848</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#guotong-xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_73842</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guo Tong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73212</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73205</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/29</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_44339</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Guotong_Xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_44321</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guo Tong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73212</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73210</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/30</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_63265</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Guotong_Xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_63273</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guo Tong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73212</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73210</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/31</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_73848</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Guotong_Xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_73842</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guo Tong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73212</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73210</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/29</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_44339</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#guotong-xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_44321</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guotong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73218</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73205</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/30</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_63265</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#guotong-xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_63273</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guotong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73218</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73205</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/31</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_73848</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#guotong-xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_73842</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guotong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73218</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73205</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/29</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_44339</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Guotong_Xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_44321</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guotong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73218</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73210</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/30</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_63265</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Guotong_Xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_63273</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guotong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73218</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73210</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/guotong-xie</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/31</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_73848</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Guotong_Xie</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_73842</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Guotong Xie</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_73218</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_73210</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/david-leal</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/49</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_59522</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/David_Leal</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_59513</uri>
+			</binding>
+			<binding name='n'>
+				<literal>David Leal</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_89434</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_89439</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/catherine-dolbear</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/54</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_15551</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Catherine_Dolbear</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_15559</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Catherine Dolbear</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_89507</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_89508</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/catherine-dolbear</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/33</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_93677</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://semanticweb.org/id/Catherine_Dolbear</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_93687</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Catherine Dolbear</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_89507</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_89508</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/aman-shakya</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/37</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_30992</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Aman_Shakya</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_31002</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Aman Shakya</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_91183</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_91177</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/malte-kiesel</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/43</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_101585</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://www.eswc2006.org/people/#malte-kiesel</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_101579</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Malte Kiesel</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_98798</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_98792</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/shengping-liu</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/28</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_33868</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Shengping_Liu</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_33879</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Shengping Liu</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_100523</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_100521</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/shengping-liu</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/29</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_44341</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Shengping_Liu</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_44321</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Shengping Liu</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_100523</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_100521</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/shengping-liu</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/30</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_63261</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Shengping_Liu</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_63273</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Shengping Liu</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_100523</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_100521</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://data.semanticweb.org/person/shengping-liu</uri>
+			</binding>
+			<binding name='paper'>
+				<uri>http://data.semanticweb.org/conference/iswc/2008/paper/poster_demo/31</uri>
+			</binding>
+			<binding name='product2'>
+				<uri>http://www.example.com/product/semanticweb_73856</uri>
+			</binding>
+			<binding name='x'>
+				<uri>http://ontoworld.org/wiki/Special:URIResolver/Shengping_Liu</uri>
+			</binding>
+			<binding name='product1'>
+				<uri>http://www.example.com/product/semanticweb_73842</uri>
+			</binding>
+			<binding name='n'>
+				<literal>Shengping Liu</literal>
+			</binding>
+			<binding name='product4'>
+				<uri>http://www.example.com/product/semanticweb_100523</uri>
+			</binding>
+			<binding name='product3'>
+				<uri>http://www.example.com/product/semanticweb_100521</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>

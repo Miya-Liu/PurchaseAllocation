@@ -55,9 +55,7 @@ NB: algorithm name list is ['3ddp' 'greedy' 'brute'], value list is ['l' 'm' 's'
 ## Benchmark
 
 ### Benchmark Sources
-The queries and datasets used in the evaluation are from [FedBench](http://fedbench.fluidops.net/). They can also be downloaded from [LargeRDFBech](https://github.com/AKSW/largerdfbench).
-
-FedBench has 25 queries and 9 related data sources covering the field of Cross Domain Queries (CD), Life Science Queries (LS) and Linked Data (LD). 
+The queries and datasets used in the evaluation are from [FedBench](http://fedbench.fluidops.net/). There are 25 queries and 9 related data sources covering the field of Cross Domain Queries (CD), Life Science Queries (LS) and Linked Data (LD). They can also be downloaded from [LargeRDFBech](https://github.com/AKSW/largerdfbench).
 
 ### Simulated Competitive Market
 To simulate a competitive market, we create overlap between above sources. The approach of generating overlaps has been explained in the paper with details.

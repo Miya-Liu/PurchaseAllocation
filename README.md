@@ -49,7 +49,7 @@ Download the source code, run .jar with parameters:
 ```bash
 java -jar serviceMarket.jar -pf [file of pricing functions] -v [value] -i [query index] -a [algorithm name]
 ```
-NB: algorithm name list is ['3ddp' 'greedy' 'brute'], value list is ['l' 'm' 's' 'e'], examples of pricing function files can be found in **PricingFunctionSettings** folder and queries in **input** foler
+NB: algorithm name list is ['3ddp', 'greedy', 'brute'], value distribution list is ['l', 'm', 's', 'e'], examples of pricing function files can be found in **PricingFunctionSettings** folder and queries in **input** foler
 
 ---
 ## Benchmark

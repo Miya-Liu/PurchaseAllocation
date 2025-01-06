@@ -74,12 +74,6 @@ Mengya Liu, Luis-Daniel Ibáñez, Elena Simperl, Adriane Chapman. Best Bang for 
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgements
 
 We acknowledge the support of Chinese Scholarship Council and []. 
@@ -88,5 +82,3 @@ For questions or feedback, please feel free to open an issue or email us directl
 
 ---
 
-
-See *build/doc/FedX_Documentation.html* for detailed information
